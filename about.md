@@ -13,7 +13,7 @@ Sure! Just drop us an [email](mailto:interviews@eebtools.org).
 
 #Can I suggest myself?
 
-Of course. In fact just fill out this [template](https://gist.github.com/4612840) and send it back to us - don't forget to add a picture! If you are git savvy, then feel free to send us a pull request to this repo.
+Of course. In fact just fill out this [template](https://gist.github.com/4612840) ([plain-text version](http://eebtools.org/about/)) and send it back to us - don't forget to add a picture! If you are git savvy, then feel free to send us a pull request to this repo.
 
 #How did this idea come about?
 
