@@ -5,11 +5,11 @@ title: About
 
 #What's this all about?
 
-We interview other ecologists, evolutionary biologists (and related folks) and find out what tools they use to make their science rock.
+We interview other ecologists, evolutionary biologists (and related folks) and find out what tools they use to make their science rock. We love to hear not just about your software and computing equipment but also about other stuff you use in the field or lab that really helps with your science.
 
 #Can I suggest someone I admire?
 
-Sure! Just drop us an [email](mailto:submit@ecotools.org).
+Sure! Just drop us an [email](mailto:interviews@ecotools.org).
 
 #Can I suggest myself?
 
