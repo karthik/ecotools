@@ -6,7 +6,7 @@ title: Interviews
 <div id="post">
 <ul class="posts">
 	{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.dir }}/{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.shortbio }}</li>
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.dir }}{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.shortbio }}</li>
 	{% endfor %}
 </ul>
 </div>
