@@ -7,6 +7,17 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
+
+.header-link:a {
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 2px 5px 5px 5px;
+}
+.header-link:hover {
+background-color: #377eb8;
+color: #ffffff;
+}
+
 .clearfix {
   *zoom: 1;
 }
