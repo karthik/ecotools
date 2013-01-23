@@ -9,7 +9,7 @@ We interview other ecologists, evolutionary biologists (and related folks) and f
 
 #Can I suggest someone I admire?
 
-Sure! Just drop us an [email](mailto:interviews@ecotools.org).
+Sure! Just drop us an [email](mailto:interviews@eebtools.org).
 
 #Can I suggest myself?
 
