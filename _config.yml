@@ -1,0 +1,5 @@
+markdown: rdiscount
+pygments: true
+title: EEB Tools
+permalink: pretty
+tagline: What ecologists and evolutionary biologists use to get stuff done.
