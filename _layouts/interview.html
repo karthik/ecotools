@@ -5,7 +5,9 @@ interv: true
 
 <h1>{{ page.title }}</h1>
 
-<img src="{{ page.photo }}" class="authorphoto" width="500" height="335" />
+{% if page.photo != null %}
+   <img src="{{ page.photo }}" class="authorphoto" width="500" height="335" />
+{% endif %}
 
 {{ content }}
 
