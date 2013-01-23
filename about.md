@@ -5,7 +5,7 @@ title: About
 
 #What's this all about?
 
-We interview ecologists, evolutionary biologists (and related folks) and find out what tools they use to make their science rock. We love to hear not just about your software and computing equipment but also about other stuff you use in the field or lab that really helps with your science.
+We interview ecologists, evolutionary biologists (and other scientists) and find out what tools they use to make their science rock. We love to hear not just about your software and computing equipment but also about other stuff you use in the field or lab that really helps with your science.
 
 #Can I suggest someone I admire?
 
