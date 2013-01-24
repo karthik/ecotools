@@ -21,12 +21,12 @@ I use [Sublime Text 2](http://www.sublimetext.com/) for nearly everything. This 
 
 I also spend a majority of my day with git/[GitHub](https://github.com/) since most of my collaborators and work projects are hosted there.  I use a [R](http://www.r-project.org/) a lot. My favorite R packages are [knitr](http://yihui.name/knitr/), [devtools](http://www.rstudio.com/projects/devtools/), [ggplot2](http://ggplot2.org/) and [mclapply](http://stat.ethz.ch/R-manual/R-devel/library/parallel/html/mclapply.html). [iTerm2](http://www.iterm2.com/) keeps me connected to all these tools and services.
 
-I hear about recent papers, academic tools, and other news mostly via [Twitter](http://twitter.com/_inundata) using [Tweetbot](http://tapbots.com/software/tweetbot/) but also from rss feeds through Google Reader + [Reeder](http://reederapp.com/). I keep tabs on some of you via [Google Scholar alerts](http://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en). Long articles go to [Readability](http://www.readability.com/) through a recipe at [IFTT](http://ifttt.com/) (anything I favorite on Twitter is automatically sent to readability) and a digest ends up on my Kindle every morning at 4 am in time for me to read over coffee. All useful links are automatically bookmarked and privately cached on my [Pinboard](http://pinboard.in/) account. 
+I hear about recent papers, academic tools, and other news mostly via [Twitter](http://twitter.com/_inundata) using [Tweetbot](http://tapbots.com/software/tweetbot/mac/) but also from rss feeds through Google Reader + [Reeder](http://reederapp.com/). I keep tabs on some of you via [Google Scholar alerts](http://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en). Long articles go to [Readability](http://www.readability.com/) through a [recipe](https://ifttt.com/myrecipes/personal/2595379) at [IFTT](http://ifttt.com/) (anything I favorite on Twitter is automatically sent to readability) and a digest ends up on my Kindle every morning at 4 am in time for me to read over coffee. All useful links are automatically bookmarked and privately cached on my [Pinboard](http://pinboard.in/) account. 
   
 
 #What would your dream set up be?
 
 I'd love to switch to a Macbook Air with an Apple cinema display and ditch the pro. Given how cheap Amazon AWS instances are these days, I could always spin up EC2 for larger simulations and just use my lighter laptop for writing and reading. 
 
-Also a new field site once I'm somewhere more permanent. 
+Also a new field site/system once I'm somewhere more permanent. 
 
