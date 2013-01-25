@@ -116,13 +116,17 @@ body{
 }
 
 img {
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
 }
 @media \0screen {
   img {
     width: auto; /* for ie 8 */
   }
+}
+
+figure {
+  margin: 0;
 }
 
 .gray-line {
