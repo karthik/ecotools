@@ -6,11 +6,6 @@ title: Home
 <div id='post'>
     {% for post in site.posts limit:1 %}
         <h1>{{ post.title }} &mdash; {{ post.shortbio }}</h1>
-        <br>
-        {% if page.photo != null %}
-        <img src="{{ page.photo }}" class="authorphoto"/>
-        {% endif %}
-    <br>
         {{ post.blob }}
         <p />
         <a href="{{ site.dir }}{{ post.url }}">
