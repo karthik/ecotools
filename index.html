@@ -4,17 +4,21 @@ title: Home
 ---
 
 <div id='post'>
-    {% for post in site.posts limit:1 %}
+    {% for post in site.posts limit:3 %}
         <h1>{{ post.title }} &mdash; {{ post.shortbio }}</h1>
-        <br>
         {% if post.photo != null %}
         <img src="{{ post.photo }}" class="authorphoto"/>
         {% endif %}
-
+            <br>
         {{ post.blob }}
         <p />
         <a href="{{ site.dir }}{{ post.url }}">
             Read the whole interview ({{ post.content | number_of_words }} words)
         </a>
     {% endfor %}
+</div>
+
+<div>
+<br>
+<a href="http://eebtools.org/interviews/">older Interviews</a>
 </div>
