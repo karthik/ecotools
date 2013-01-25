@@ -12,7 +12,7 @@ title: Home
         {{ post.blob }}
         <p />
         <a href="{{ site.dir }}{{ post.url }}">
-            Read the whole interview ({{ post.content | number_of_words }} words)
+            <span class="small-text">Read the whole interview ({{ post.content | number_of_words }} words)</span>
         </a>
         <hr class="gray-line">
     {% endfor %}
@@ -20,5 +20,4 @@ title: Home
 
 <div>
 <br>
-<span class="small-text"><a href="http://eebtools.org/interviews/">older interviews</a></span>
 </div>
