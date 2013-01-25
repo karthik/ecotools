@@ -107,7 +107,7 @@ body{
 
 .authorphoto{
   margin: 0px auto;
-  max-width: inherit;
+  max-width: 90%;
   display: block;
 }
 
