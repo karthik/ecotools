@@ -119,6 +119,11 @@ img {
   max-width: 100%;
   height: auto;
 }
+@media \0screen {
+  img {
+    width: auto; /* for ie 8 */
+  }
+}
 
 .gray-line {
   border: 0;
