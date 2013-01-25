@@ -7,4 +7,4 @@ Feel free to suggest new folks to interview from the about page.
 
 If you're git savvy and want to submit your own interview, just fork this repo and add your `firstname-lastname.md` based on this [template](https://gist.github.com/4612840) to the repo and send a pull request.
 
-Just be sure you drop your `firstname-lastname.md` file into the `_drafts` folder.
+Just be sure you drop your `firstname-lastname.md` file into the `_drafts` folder on the `gh-pages` branch.
