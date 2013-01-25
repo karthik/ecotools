@@ -7,9 +7,8 @@ title: Home
     {% for post in site.posts limit:3 %}
         <h1>{{ post.title }} &mdash; {{ post.shortbio }}</h1>
         {% if post.photo != null %}
-        <img src="{{ post.photo }}" class="authorphoto"/>
+        <img src="{{ post.photo }}" class="authorphoto"/><br>
         {% endif %}
-            <br>
         {{ post.blob }}
         <p />
         <a href="{{ site.dir }}{{ post.url }}">
@@ -20,5 +19,5 @@ title: Home
 
 <div>
 <br>
-<a href="http://eebtools.org/interviews/">older Interviews</a>
+<span class="small-text"><a href="http://eebtools.org/interviews/">older Interviews</a></span>
 </div>
