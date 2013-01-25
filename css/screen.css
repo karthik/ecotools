@@ -110,3 +110,7 @@ body{
   max-width: inherit;
   display: block;
 }
+
+.small-text {
+  font-variant: small-caps;
+}
