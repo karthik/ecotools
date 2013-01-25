@@ -114,3 +114,8 @@ body{
 .small-text {
   font-variant: small-caps;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
