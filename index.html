@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div id='post'>
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts limit:5 %}
         <h1>{{ post.title }} &mdash; {{ post.shortbio }}</h1>
         {% if post.photo != null %}
         <img src="{{ post.photo }}" class="authorphoto"/><br>
