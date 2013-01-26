@@ -29,5 +29,4 @@ I hear about recent papers, academic tools, and other news mostly via [Twitter](
 I'd love to switch to a Macbook Air with a 27" cinema display and ditch the pro. Given how cheap Amazon AWS instances are these days, I could always spin up [EC2](http://aws.amazon.com/ec2/) for larger simulations and just use my lighter laptop for writing and reading.  
 
 Also a new field site/system once I'm somewhere more permanent. Hopefully as great as my previous one.  
-[![Bodega marine lab was my last field site](http://farm9.staticflickr.com/8336/8414537051_6506643168.jpg)](http://www.flickr.com/photos/kdawg/8414537051/sizes/l/in/photostream/ "My last field site by Karthik Ram, on Flickr")
 
