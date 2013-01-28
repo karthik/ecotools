@@ -1,7 +1,7 @@
 ---
 layout: interview
 title: Brian O'Meara
-shortbio: I'm an assistant professor at U. of Tennessee, Knoxville.
+shortbio: Assistant professor at U. of Tennessee, Knoxville.
 blob: 
 isinterview: true
 photo: http://brianomeara.info/sites/default/files/OMearaHeadshotLarge.jpg
